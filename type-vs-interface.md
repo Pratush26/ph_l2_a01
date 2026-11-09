@@ -1,6 +1,6 @@
 # What are the core differences between Type Aliases and Interfaces in TypeScript? When should you choose one over the other?
 
-TypeScript provides two ways to define custom types: **Type Aliases** and **Interfaces**. Both have their own use cases. They allow developers to define the structure of data and enforce type safety.
+Typescript provides two ways to define custom types: **Type Aliases** and **Interfaces**. Both have their own use cases. They allow developers to define the structure of data and enforce type safety.
 
 Below is a quick example of how both approaches can define the same object structure.
 
